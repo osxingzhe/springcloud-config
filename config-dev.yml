@@ -1,2 +1,2 @@
-eureka:
-  client: qwee
+config:
+  info: qwee
